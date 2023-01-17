@@ -3,3 +3,26 @@ h1{
     text-decoration: underline;
     background: gold;
 }
+
+h2{
+    color: purple;
+    font-weight: bold;
+    font-size: 25px;
+    border: solid 10px orange;
+}
+
+section p{
+    width: 50%;
+    height: 200px;
+    background: gray;
+    border: solid 5px black;
+    color: white;
+}
+
+footer h3{  
+    background: black;
+    border: solid lightgreen 10px;
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+}
